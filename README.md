@@ -1,0 +1,1 @@
+# ansible sbt-play template
